@@ -1,7 +1,6 @@
 {
   "name": "root",
   "private": true,
-  "author": "wxq",
   "devDependencies": {
     "lerna": "^3.22.1"
   }
