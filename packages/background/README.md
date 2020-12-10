@@ -1,4 +1,4 @@
-# background
+# backstage
 
 ## Project setup
 ```
